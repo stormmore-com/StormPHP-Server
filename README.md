@@ -27,7 +27,8 @@ Run storm server with parameter
 
 ### Example configuration file
 
-dir = /path/to/your/directory\
+```
+dir = /path/to/your/directory
 port = 87\
 timeout = 30
 
@@ -42,3 +43,4 @@ load_balancer.enabled = yes\
 load_balancer.servers = 127.0.0.1:100\
 load_balancer.servers = 127.0.0.1:101\
 load_balancer.servers = 127.0.0.1:102
+```
