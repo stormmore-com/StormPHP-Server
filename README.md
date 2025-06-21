@@ -6,7 +6,7 @@ Easy and lightweight, with everything you need to go into production.
 Run `storm-server`. By default, it serves files from the working directory on port  80.
 
 ### Download link
-[Windows](https://github.com/stormmore-com/storm-server/storm-server.x64.zip)\
+[Windows](https://github.com/stormmore-com/storm-server/releases/download/0.1.0/storm-server.x64.zip)\
 [MacOS (intel)]()
 
 **Features**
