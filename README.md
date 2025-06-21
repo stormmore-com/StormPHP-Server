@@ -7,7 +7,7 @@ Run `storm-server`. By default, it serves files from the working directory on po
 
 ### Download link
 [Windows](https://github.com/stormmore-com/storm-server/releases/download/0.1.0/storm-server.x64.zip)\
-[MacOS (intel)]()
+[MacOS (intel)](https://github.com/stormmore-com/storm-server/releases/download/0.1.0/storm-server.macos.intel.zip)
 
 **Features**
 - Listing directory
