@@ -1,8 +1,8 @@
-# StormServer
-It's a simple server designed to work with the PHPStorm framework.\
+# StormPHP Server
+It's a simple server designed to work with the StormPHP Framework.\
 Easy and lightweight, with everything you need to go into production.
 
-### Running StormServer
+### Running StormPHP Server
 Run `storm-server`. By default, it serves files from the working directory on port  80.
 
 ### Download link
@@ -23,7 +23,7 @@ Run `storm-server`. By default, it serves files from the working directory on po
 
 ### Configuration
 Run storm-server with the parameter
-`storm server -f config.txt`
+`storm-server -f config.txt`
 
 ### Example configuration file
 
