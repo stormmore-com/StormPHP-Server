@@ -29,18 +29,18 @@ Run storm server with parameter
 
 ```
 dir = /path/to/your/directory
-port = 87\
+port = 87
 timeout = 30
 
-logs.enabled = yes\
+logs.enabled = yes
 logs.min_level = debug
 
-https.enabled = yes\
-https.public_key = yours_public_key.pem\
+https.enabled = yes
+https.public_key = yours_public_key.pem
 https.private_key = path_to_yours_public_key.pem
 
-load_balancer.enabled = yes\
-load_balancer.servers = 127.0.0.1:100\
-load_balancer.servers = 127.0.0.1:101\
+load_balancer.enabled = yes
+load_balancer.servers = 127.0.0.1:100
+load_balancer.servers = 127.0.0.1:101
 load_balancer.servers = 127.0.0.1:102
 ```
